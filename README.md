@@ -4,12 +4,9 @@ This project falls under the visual art and animation type in the brief. The pro
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+* [Improvements](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -25,5 +22,8 @@ Processing version 4.3 (python)
 Need to have Processing installed and enable Sketch --> Present 
 
 ## Improvements 
-- With more time and understanding the goal would be to input a question box and allow users to enter their responses and have the software store the data
-- Adding the terms "Breathe In" and "breathe Out" to line up with the circle movement would also be a great feature to add. I didn't want to just copy code without understanding it fully so I left it out of this project. Instead,I challenged myself with coding both visual and simple text. 
+- With more time and understanding the goal would be to input a question box allowing users to enter their responses and have the software store the data
+- Adding the terms "Breathe In" and "breathe Out" to line up with the circle movement would also be a great feature to add. I didn't want to copy existing code without understanding it fully so I left it out of this project. Instead, I challenged myself with coding both visual and simple text. 
+
+## Acknowledgements 
+Thank you to my Tutor Mr John who offered guidance and advice throughout the project. Thank you to the Subject coordinator Dr Andrew Stapleton for the assessment information and weekly lectures that assisted with the direction of my prototype and helped me write my reflection. 
