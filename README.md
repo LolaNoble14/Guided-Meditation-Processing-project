@@ -23,7 +23,8 @@ Need to have Processing installed and enable Sketch --> Present
 
 ## Improvements 
 - With more time and understanding the goal would be to input a question box allowing users to enter their responses and have the software store the data
-- Adding the terms "Breathe In" and "breathe Out" to line up with the circle movement would also be a great feature to add. I didn't want to copy existing code without understanding it fully so I left it out of this project. Instead, I challenged myself with coding both visual and simple text. 
+- Adding the terms "Breathe In" and "breathe Out" to line up with the circle movement would also be a great feature to add. I didn't want to copy existing code without understanding it fully so I left it out of this project. Instead, I challenged myself with coding both visual and simple text.
+- Add text saying to breathe in through the nose and out through the mouth that allign with the movement of the circle 
 
 ## Acknowledgements 
 Thank you to my Tutor Mr John who offered guidance and advice throughout the project. Thank you to the Subject coordinator Dr Andrew Stapleton for the assessment information and weekly lectures that assisted with the direction of my prototype and helped me write my reflection. 
