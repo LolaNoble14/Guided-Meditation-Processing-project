@@ -24,14 +24,15 @@ Need to have Processing installed and enable Sketch --> Present
 
 ## Improvements 
 - With more time and understanding the goal would be to input a question box allowing users to enter their responses and have the software store the data
-- Adding the terms "Breathe In" and "breathe Out" to line up with the circle movement would also be a great feature to add. I didn't want to copy existing code without understanding it fully so I left it out of this project. Instead, I challenged myself with coding both visual and simple text.
-- Add text saying to breathe in through the nose and out through the mouth that allign with the movement of the circle 
+- Adding the terms "Breathe In" and "breathe Out" to line up with the circle movement would also be a great feature to include. I didn't want to copy existing code without understanding it fully so I left it out of this project. Instead, I challenged myself with coding both visual and simple text.
+- Add text saying to breathe in through the nose and out through the mouth that aligns with the movement of the circle 
 
 ## References 
+Below uses are clarified in the code comments: 
 - Code logic for circle growth and shrink logic from Pho. (2020, October 20). "Python: How to make a circle grow and shrink". Stack Overflow. https://stackoverflow.com/questions/64449551/python-how-to-make-a-circle-grow-and-shrink
-- Code textAlign retrieved from code library published by Processing.py. (2024, February 27). textAlign(). Retrieved October 23, 2024, from https://py.processing.org/reference/textalign
-- OpenAI. (2024). ChatGPT (Oct 31 version) [Large language model]. 
-https://chatgpt.com/c/67296c9e-5e20-8001-8cd0-f7770ca7f0e7
+- Code textAlign retrieved from and published by Processing.py. (2024, February 27). textAlign(). Retrieved October 23, 2024, from https://py.processing.org/reference/textalign
+- Code ellipseMode() retrieved from and published by Processing.py. (2024, February 27). ellipseMode(). Retrieved October 15, 2024, from https://py.processing.org/reference/ellipsemode
+- Grow and shrink formula used to calculate each circle's seconds: OpenAI. (2024). ChatGPT (Oct 31 version) [Large language model]. https://chatgpt.com/c/67296c9e-5e20-8001-8cd0-f7770ca7f0e7
 
 
 ## Acknowledgements 
