@@ -30,6 +30,9 @@ Need to have Processing installed and enable Sketch --> Present
 ## References 
 - Code logic for circle growth and shrink logic from Pho. (2020, October 20). "Python: How to make a circle grow and shrink". Stack Overflow. https://stackoverflow.com/questions/64449551/python-how-to-make-a-circle-grow-and-shrink
 - Code textAlign retrieved from code library published by Processing.py. (2024, February 27). textAlign(). Retrieved October 23, 2024, from https://py.processing.org/reference/textalign
+- OpenAI. (2024). ChatGPT (Oct 31 version) [Large language model]. 
+https://chatgpt.com/c/67296c9e-5e20-8001-8cd0-f7770ca7f0e7
+
 
 ## Acknowledgements 
 Thank you to my Tutor Mr John who offered guidance and advice throughout the project. Thank you to the Subject coordinator Dr Andrew Stapleton for the assessment information and weekly lectures that assisted with the direction of my prototype and helped me write my reflection. 
