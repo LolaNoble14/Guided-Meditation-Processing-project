@@ -21,6 +21,7 @@ Processing version 4.3 (python)
 
 ## Setup
 Need to have Processing installed and enable Sketch --> Present 
+The project files are called --> Meditation_circle_1   Meditation_circle_2 Meditation_circle_3
 
 ## Improvements 
 - With more time and understanding the goal would be to input a question box allowing users to enter their responses and have the software store the data
