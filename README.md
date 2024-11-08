@@ -4,7 +4,6 @@ This project falls under the visual art and animation type in the brief. The pro
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Improvements](#improvements)
 * [References](#references)
